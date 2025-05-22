@@ -2,7 +2,7 @@
 venv/
 
 # wav files
-.wav
+*.wav
 
 # text output files
-.txt
+*.txt
