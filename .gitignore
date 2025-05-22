@@ -1,0 +1,8 @@
+# Ignore Python virtual environments
+venv/
+
+# wav files
+.wav
+
+# text output files
+.txt
